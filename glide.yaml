@@ -1,0 +1,4 @@
+package: bysykkelBot
+import:
+- package: go get -u github.com/wcharczuk/go-chart
+- package: github.com/ghodss/yaml
